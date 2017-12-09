@@ -37,3 +37,21 @@ h1 {
 
 .feature-wrapper {
   color: #000; }
+
+#join-container {
+  background: url("/assets/screen1.jpg") no-repeat;
+  background-size: cover; }
+  #join-container h2 {
+    letter-spacing: 4px;
+    font-weight: bold; }
+  #join-container h4 {
+    color: gray; }
+  #join-container .form-control {
+    background: #111111;
+    border: 3px solid #2F2F2F;
+    padding: 10px; }
+  #join-container .btn {
+    padding: 12px;
+    border: none;
+    color: #000;
+    cursor: pointer; }
